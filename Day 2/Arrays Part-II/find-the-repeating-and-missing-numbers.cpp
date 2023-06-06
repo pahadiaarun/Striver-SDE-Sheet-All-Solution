@@ -1,4 +1,4 @@
-// https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+// https://www.interviewbit.com/problems/repeat-and-missing-number-array/
 
 vector<int> Solution::repeatedNumber(const vector<int> &A) {
     long long n=A.size();;
