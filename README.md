@@ -16,15 +16,15 @@ S.No. | Day | Topic | Date |
 1 | [Day 1](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%201/Arrays) | Arrays | 3 June 23 |
 2 | [Day 2](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%202/Arrays%20Part-II) | Arrays Part-II | 4 June 23 |
 3 | [Day 3](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%203/Arrays%20Part-III) | Arrays Part-III | 5 June 23 |
-4 | [Day 4](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%204/Arrays%20Part-IV) | Arrays Part-IV | Not started |
-5 | [Day 5](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%205%20/Linked%20List) | Linked List | Not started |
-6 | [Day 6](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%206%20/%20Linked%20List%20Part-II) | Linked List Part-II | Not started |
-7 | [Day 7]() | Linked List and Arrays | Not started |
-8 | [Day 8]() | Greedy Algorithm | Not started |
-9 | [Day 9]() | Recursion | Not started |
-10 | [Day 10]() | Recursion and Backtracking | Not started |
-11 | [Day 11]() | Binary Search | Not started |
-12 | [Day 12]() | Heaps | Not started |
+4 | [Day 4](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%204/Arrays%20Part-IV) | Arrays Part-IV | 6 June 23 |
+5 | [Day 5](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%205%20/Linked%20List) | Linked List | 7 June 23 |
+6 | [Day 6](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day%206%20/%20Linked%20List%20Part-II) | Linked List Part-II | 8 June 23 |
+7 | [Day 7](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day%207%20/%20Linked%20List%20and%20Arrays) | Linked List and Arrays | 9 June 23 |
+8 | [Day 8](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day%208%20/%20Greedy%20Algorithm) | Greedy Algorithm | 10 June 23 |
+9 | [Day 9](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day%209/Recursion) | Recursion | 11 June 23 |
+10 | [Day 10](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day10/Recursion%20and%20Backtracking) | Recursion and Backtracking | 12 June 23 |
+11 | [Day 11](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day11/Binary%20Search) | Binary Search | 13 June 23 |
+12 | [Day 12](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day12/Heaps) | Heaps | 14 June 23 |
 13 | [Day 13]() | Stack and Queue | Not started |
 14 | [Day 14]() | Stack and Queue Part-II | Not started |
 15 | [Day 15]() | String | Not started |
