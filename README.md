@@ -1,7 +1,6 @@
 # 100 Days of Code Challenge - C++ Solutions
 
-## Description
-Strivers SDE Sheet – Challenge
+## Strivers SDE Sheet – Challenge
 
 Welcome to my 100 Days of Code challenge repository! 🚀 This repository contains my daily coding solutions in C++. Over the course of 100 days, I will be working on various programming problems, data structures, algorithms, and projects to enhance my coding skills and knowledge.
 
