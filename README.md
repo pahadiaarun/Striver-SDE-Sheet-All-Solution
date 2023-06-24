@@ -24,9 +24,9 @@ S.No. | Day | Topic | Date |
 10 | [Day 10](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day10/Recursion%20and%20Backtracking) | Recursion and Backtracking | 12 June 23 |
 11 | [Day 11](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day11/Binary%20Search) | Binary Search | 13 June 23 |
 12 | [Day 12](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day12/Heaps) | Heaps | 14 June 23 |
-13 | [Day 13](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day13/) | Stack and Queue | Not started |
-14 | [Day 14](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day14/) | Stack and Queue Part-II | Not started |
-15 | [Day 15](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day15/) | String | Not started |
+13 | [Day 13](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day13) | Stack and Queue | Not started |
+14 | [Day 14](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day14) | Stack and Queue Part-II | Not started |
+15 | [Day 15](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day15) | String | Not started |
 16 | [Day 16]() | String Part-II | Not started |
 17 | [Day 17]() | Binary Tree | Not started |
 18 | [Day 18]() | Binary Tree Part-II | Not started |
