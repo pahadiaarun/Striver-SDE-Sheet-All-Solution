@@ -24,17 +24,17 @@ S.No. | Day | Topic | Date |
 10 | [Day 10](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day10/Recursion%20and%20Backtracking) | Recursion and Backtracking | 12 June 23 |
 11 | [Day 11](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day11/Binary%20Search) | Binary Search | 13 June 23 |
 12 | [Day 12](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day12/Heaps) | Heaps | 14 June 23 |
-13 | [Day 13](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day13) | Stack and Queue | Not started |
-14 | [Day 14](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day14) | Stack and Queue Part-II | Not started |
-15 | [Day 15](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day15) | String | Not started |
-16 | [Day 16]() | String Part-II | Not started |
-17 | [Day 17]() | Binary Tree | Not started |
-18 | [Day 18]() | Binary Tree Part-II | Not started |
-19 | [Day 19]() | Binary Tree Part-III | Not started |
-20 | [Day 20]() | Binary Search Tree | Not started |
-21 | [Day 21]() | Binary Search Tree Part-II | Not started |
-22 | [Day 22]() | Binary Trees[Miscellaneous] | Not started |
-23 | [Day 23]() | Graph | Not started |
+13 | [Day 13](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day13) | Stack and Queue | 15 June 23 |
+14 | [Day 14](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day14) | Stack and Queue Part-II | 16 June 23 |
+15 | [Day 15](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/0e8b32e829fd735f68da9cee656dbc61d153c78d/Day15) | String | 18 June 23 |
+16 | [Day 16](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day16/String%20Part-II) | String Part-II | 19 June 23 |
+17 | [Day 17](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day17) | Binary Tree | 20 June 23 |
+18 | [Day 18](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day18) | Binary Tree Part-II | 22 June 23 |
+19 | [Day 19](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day19) | Binary Tree Part-III | 24 June 23 |
+20 | [Day 20](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day20) | Binary Search Tree | 26 June 23 |
+21 | [Day 21](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day21) | Binary Search Tree Part-II | 28 June 23 |
+22 | [Day 22](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day22) | Binary Trees[Miscellaneous] | 1 July 23 |
+23 | [Day 23]() | Graph | 2 July 23 |
 24 | [Day 24]() | Graph Part-II | Not started |
 25 | [Day 25]() | Dynamic Programming | Not started |
 26 | [Day 26]() | Dynamic Programming Part-II | Not started |
