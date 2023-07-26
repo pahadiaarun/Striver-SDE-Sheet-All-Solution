@@ -34,14 +34,14 @@ S.No. | Day | Topic | Date |
 20 | [Day 20](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day20) | Binary Search Tree | 26 June 23 |
 21 | [Day 21](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day21) | Binary Search Tree Part-II | 28 June 23 |
 22 | [Day 22](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day22) | Binary Trees[Miscellaneous] | 1 July 23 |
-23 | [Day 23]() | Graph | 2 July 23 |
-24 | [Day 24]() | Graph Part-II | Not started |
-25 | [Day 25]() | Dynamic Programming | Not started |
-26 | [Day 26]() | Dynamic Programming Part-II | Not started |
-27 | [Day 27]() | Trie | Not started |
-28 | [Day 28]() | OS | Not started |
-29 | [Day 29]() | DBMS | Not started |
-30 | [Day 30]() | CN | Not started |
+23 | [Day 23](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day23/Graph) | Graph | 2 July 23 |
+24 | [Day 24](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day24/Graph%20Part-II) | Graph Part-II | Not started |
+25 | [Day 25](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day25/Dynamic%20Programming) | Dynamic Programming | Not started |
+26 | [Day 26](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day26/Dynamic%20Programming%20Part-II) | Dynamic Programming Part-II | Not started |
+27 | [Day 27](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day27/Trie) | Trie | Not started |
+28 | [Day 28](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day28/OS) | OS | Not started |
+29 | [Day 29](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day29/DBMS) | DBMS | Not started |
+30 | [Day 30](https://github.com/pahadiaarun/100DaysOfCodeChallenge/tree/main/Day30/CN) | CN | Not started |
 31 | [Day 31]() | Project | Not started |
 
 
